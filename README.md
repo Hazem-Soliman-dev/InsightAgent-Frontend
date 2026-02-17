@@ -75,6 +75,9 @@ Or use Netlify UI:
 
 ## 📝 Features
 
+- 🔐 **Authentication UI** - Login, Register, and Session management
+- 💳 **Pricing & Usage** - Dynamic subscription plans and premium usage dashboard
+- 👑 **Admin Panel** - User management and subscription plan editor
 - 🎨 Modern UI with OKLCH color system
 - 📊 Real-time data visualization
 - 🔄 Optimized data fetchers
